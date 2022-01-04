@@ -1,0 +1,15 @@
+{
+    "name": "killian/public",
+    "autoload": {
+        "psr-4": {
+            "Killian\\Public\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "KillianBelet",
+            "email": "killian.delettre@gmail.com"
+        }
+    ],
+    "require": {}
+}
